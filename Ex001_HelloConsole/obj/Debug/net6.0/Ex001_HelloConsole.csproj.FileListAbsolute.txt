@@ -1,0 +1,15 @@
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.exe
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.deps.json
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.runtimeconfig.json
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.dll
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.pdb
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.csproj.AssemblyReference.cache
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.AssemblyInfoInputs.cache
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.AssemblyInfo.cs
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.dll
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\obj\Debug\net6.0\refint\Ex001_HelloConsole.dll
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.pdb
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.genruntimeconfig.cache
+C:\Обучение Разработчик\Example\Ex001_HelloConsole\obj\Debug\net6.0\ref\Ex001_HelloConsole.dll
